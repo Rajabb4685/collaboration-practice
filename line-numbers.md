@@ -6,7 +6,7 @@
 #### 6
 #### 7 the amercian flag has 50 stars 
 #### 8
-#### 9
+#### 9 GitHub is awesome 
 #### 10
 #### 11
 #### 12
